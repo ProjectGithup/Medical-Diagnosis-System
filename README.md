@@ -1,1 +1,4 @@
 # Medical-Diagnosis-System
+The AI-Powered Medical Diagnosis System is an advanced healthcare solution designed to predict diseases based on user symptoms. It utilizes machine learning techniques to analyze medical data and accurately classify diseases such as Diabetes, Heart Disease, Parkinson’s Disease, Lung Cancer, and Thyroid Disorders. The system leverages data-driven insights to assist users in early disease detection, enhancing medical decision-making and providing timely health recommendations.
+
+Built using Python, Scikit-Learn, and data processing libraries, this system is designed for scalability and real-world application. The user-friendly interface allows seamless input of symptoms, processes the data, and delivers precise medical predictions. By integrating AI with healthcare, this project aims to support proactive health monitoring and improve diagnostic accuracy.
